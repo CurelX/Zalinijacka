@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zalinijačka.Plugins", "Zalinijačka.Plugins.csproj", "{A882F6A4-B5DA-072E-2994-54816375C356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zalinijačka", "Zalinijačka.csproj", "{B64FD741-A5E1-A102-93A4-FD2E0CD093C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zalinijačka.Editor.Plugins", "Zalinijačka.Editor.Plugins.csproj", "{92420D2E-D163-DF31-72F4-D9B0B8AEB237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A882F6A4-B5DA-072E-2994-54816375C356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A882F6A4-B5DA-072E-2994-54816375C356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A882F6A4-B5DA-072E-2994-54816375C356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A882F6A4-B5DA-072E-2994-54816375C356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64FD741-A5E1-A102-93A4-FD2E0CD093C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64FD741-A5E1-A102-93A4-FD2E0CD093C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64FD741-A5E1-A102-93A4-FD2E0CD093C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64FD741-A5E1-A102-93A4-FD2E0CD093C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92420D2E-D163-DF31-72F4-D9B0B8AEB237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92420D2E-D163-DF31-72F4-D9B0B8AEB237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92420D2E-D163-DF31-72F4-D9B0B8AEB237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92420D2E-D163-DF31-72F4-D9B0B8AEB237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
